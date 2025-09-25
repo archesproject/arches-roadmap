@@ -33,9 +33,14 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 1.0 - Release Date: March 2026
 
+## Arches Modular Reports Roadmap
+
+### 1.0 - Release Date: TBD
+
 ## Arches Controlled Lists Roadmap
 
 ### 1.1 - Release Date: TBD
+
 
 ## Arches QuerySets Roadmap
 
