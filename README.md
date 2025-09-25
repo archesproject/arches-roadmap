@@ -41,7 +41,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 1.1 - Release Date: TBD
 
-
 ## Arches QuerySets Roadmap
 
 ### 1.1 - Release Date: TBD
