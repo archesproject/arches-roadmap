@@ -31,7 +31,9 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches Lingo Roadmap
 
-### 1.0.0 alpha (Released June 2025)
+### 1.0.0 - Released date: March, 2026
+
+#### (Included in 1.0 alpha, released June, 2025)
 
 - Adds resource  models and controlled lists for managing thesauri and their terms as Arches resource data
 - Introduces the Arches Lingo UI, a dedicated, custom experience for creating and managing thesauri and their terms including:
@@ -39,12 +41,12 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Basic search for finding terms in thesauri
   - Basic Scheme and Concept reports and editors for editing thesauri and their terms
 
-### 1.0.0 beta (Released September 2025)
+#### (Included in 1.0 beta, released September, 2025)
 
 - Improves the Arches Lingo UI with improved hierarchy viewer and search
 - Extends the Scheme and Concept reports and editors with additional fields and features
 
-### 1.0.0 (To Be Released March 2026)
+#### (Coming in 1.0)
 
 - Adds support for managing scheme and concept lifecycles including
   - Publishing schemes and their concepts to create new versions of schemes
