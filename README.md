@@ -31,7 +31,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches Lingo Roadmap
 
-### 1.0.0 - Released date: March, 2026
+### 1.0 - Release date: March, 2026
 
 #### (Included in 1.0 alpha, released June, 2025)
 
@@ -58,7 +58,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - Allow users to view edit log for thesauri and their terms and revert changes as part of a draft edit
 - Saved searches and search results for managing lists of terms 
 
-### Future Releases
+### Wishlist (unfunded features)
 
 - Adds support for additional import/export formats
 - Public search interface for searching over published thesauri and their terms even during draft edits
