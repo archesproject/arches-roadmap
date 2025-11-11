@@ -10,6 +10,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - Global Arches Functions (triggered by tile crud events regardless of graph)
 - Transfer of Workflows to an Arches Application
 - RDM officially deprecated in favor of controlled lists (RDM remains available until v9.0)
+- Deprecation of mapbox-gl.js 
 - The following datatypes are deprecated (still available until 9.0)
     - concept
     - concept-list
