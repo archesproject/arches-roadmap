@@ -58,7 +58,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - Allow users to view edit log for thesauri and their terms and revert changes as part of a draft edit
 - Saved searches and search results for managing lists of terms 
 
-### Wishlist (unfunded features)
+### Possible Future Features (unfunded)
 
 - Adds support for additional import/export formats
 - Public search interface for searching over published thesauri and their terms even during draft edits
