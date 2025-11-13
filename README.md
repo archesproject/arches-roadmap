@@ -78,9 +78,25 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 ### 1.0 - Release Date: TBD
 
 ## Arches Controlled Lists Roadmap
-
-### 1.1 - Release Date: TBD
+### 1.1 - Release Date: March 2026
+- Support loading of skos files during package load
 
 ## Arches QuerySets Roadmap
 
 ### 1.1 - Release Date: TBD
+
+## Arches Search Roadmap
+- Postgresql fulltext search 
+- Through resource advanced search
+
+### 1.0 - Release Date: TBD
+
+## Arches RaSColls Roadmap
+
+### 1.0 - Release Date: TBD
+
+## Arches for Science Roadmap
+
+### 3.0 - Release Date: TBD
+
+
