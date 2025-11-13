@@ -3,12 +3,10 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches Roadmap
 
-### 8.1 - Release date: March, 2026
+### 8.1 - Release date: March 2026
 - User friendly resource identifiers
-- Upgrade to Django 6.0
 - Import and indexing of file metadata
 - Global Arches Functions (triggered by tile crud events regardless of graph)
-- Transfer of Workflows to an Arches Application
 - RDM officially deprecated in favor of controlled lists (RDM remains available until v9.0)
 - Deprecation of mapbox-gl.js 
 - The following datatypes are deprecated (still available until 9.0)
@@ -17,11 +15,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - domain
     - domain-list
 
-### 8.1 - Supported Applications
-- Arches Lingo, beta version released September 2025. Final 1.0 to be released March 2026
-- Arches Workflows, 1.0 to be released March 2026
-
-### 9.0 - Release date: Sept 15, 2027
+### 9.0 - Release date: September 2027
 - Full migration to Vue
 - Removal of the RDM
 - Removal of the following datatypes:
@@ -30,11 +24,19 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - domain
     - domain-list datatypes
 
+### Possible Future Features (unfunded)
+- Upgrade Django to version 6.0
+- Allow reference items to define resource relationships
+- Make main navigation bar configurable (e.g. add ability to remove/hide RDM)
+- Add graph edit log (to support tile migrations)
+- Require default value on required nodes (move default value config to node)
+- Upgrade rdflib to allow support future Python versions
+
 ## Arches Lingo Roadmap
 
-### 1.0 - Release date: March, 2026
+### 1.0 - Release date: March 2026
 
-#### (Included in 1.0 alpha, released June, 2025)
+#### (Included in 1.0 alpha, released June 2025)
 
 - Adds resource  models and controlled lists for managing thesauri and their terms as Arches resource data
 - Introduces the Arches Lingo UI, a dedicated, custom experience for creating and managing thesauri and their terms including:
@@ -42,7 +44,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Basic search for finding terms in thesauri
   - Basic Scheme and Concept reports and editors for editing thesauri and their terms
 
-#### (Included in 1.0 beta, released September, 2025)
+#### (Included in 1.0 beta, released September 2025)
 
 - Improves the Arches Lingo UI with improved hierarchy viewer and search
 - Extends the Scheme and Concept reports and editors with additional fields and features
@@ -76,9 +78,25 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 ### 1.0 - Release Date: TBD
 
 ## Arches Controlled Lists Roadmap
-
-### 1.1 - Release Date: TBD
+### 1.1 - Release Date: March 2026
+- Support loading of skos files during package load
 
 ## Arches QuerySets Roadmap
 
 ### 1.1 - Release Date: TBD
+
+## Arches Search Roadmap
+- Postgresql fulltext search 
+- Through resource advanced search
+
+### 1.0 - Release Date: TBD
+
+## Arches RaSColls Roadmap
+
+### 1.0 - Release Date: TBD
+
+## Arches for Science Roadmap
+
+### 3.0 - Release Date: TBD
+
+
