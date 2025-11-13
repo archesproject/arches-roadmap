@@ -3,7 +3,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches Roadmap
 
-### 8.1 - Release date: March, 2026
+### 8.1 - Release date: March 2026
 - User friendly resource identifiers
 - Upgrade to Django 6.0
 - Import and indexing of file metadata
@@ -17,7 +17,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - domain
     - domain-list
 
-### 9.0 - Release date: Sept 15, 2027
+### 9.0 - Release date: September 2027
 - Full migration to Vue
 - Removal of the RDM
 - Removal of the following datatypes:
@@ -28,9 +28,9 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches Lingo Roadmap
 
-### 1.0 - Release date: March, 2026
+### 1.0 - Release date: March 2026
 
-#### (Included in 1.0 alpha, released June, 2025)
+#### (Included in 1.0 alpha, released June 2025)
 
 - Adds resource  models and controlled lists for managing thesauri and their terms as Arches resource data
 - Introduces the Arches Lingo UI, a dedicated, custom experience for creating and managing thesauri and their terms including:
@@ -38,7 +38,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Basic search for finding terms in thesauri
   - Basic Scheme and Concept reports and editors for editing thesauri and their terms
 
-#### (Included in 1.0 beta, released September, 2025)
+#### (Included in 1.0 beta, released September 2025)
 
 - Improves the Arches Lingo UI with improved hierarchy viewer and search
 - Extends the Scheme and Concept reports and editors with additional fields and features
