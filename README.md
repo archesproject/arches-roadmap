@@ -5,7 +5,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 8.1 - Release date: March 2026
 - User friendly resource identifiers
-- Upgrade to Django 6.0
 - Import and indexing of file metadata
 - Global Arches Functions (triggered by tile crud events regardless of graph)
 - RDM officially deprecated in favor of controlled lists (RDM remains available until v9.0)
@@ -24,6 +23,14 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - concept-list
     - domain
     - domain-list datatypes
+
+### Possible Future Features (unfunded)
+- Upgrade Django to version 6.0
+- Allow reference items to define resource relationships
+- Make main navigation bar configurable (e.g. add ability to remove/hide RDM)
+- Add graph edit log (to support tile migrations)
+- Require default value on required nodes (move default value config to node)
+- Upgrade rdflib to allow support future Python versions
 
 ## Arches Lingo Roadmap
 
