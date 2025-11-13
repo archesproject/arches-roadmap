@@ -17,10 +17,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - domain
     - domain-list
 
-### 8.1 - Supported Applications
-- Arches Lingo, beta version released September 2025. Final 1.0 to be released March 2026
-- Arches Workflows, 1.0 to be released March 2026
-
 ### 9.0 - Release date: Sept 15, 2027
 - Full migration to Vue
 - Removal of the RDM
