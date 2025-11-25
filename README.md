@@ -8,7 +8,8 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - Import and indexing of file metadata
 - Global Arches Functions (triggered by tile crud events regardless of graph)
 - RDM officially deprecated in favor of controlled lists (RDM remains available until v9.0)
-- Deprecation of mapbox-gl.js 
+- Deprecation of mapbox-gl.js
+- Adoption of Default Deny as default resource instance permission framework
 - The following datatypes are deprecated (still available until 9.0)
     - concept
     - concept-list
