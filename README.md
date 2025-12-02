@@ -14,6 +14,22 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - concept-list
     - domain
     - domain-list
+- **Unfunded "Wishlist"**:
+  - Improved customization of navigation UI
+  - Allow for reference data type to replace concepts in defining resource relationships
+
+### 8.2 (LTS) - Release date: March 2026
+- **Unfunded "Wishlist"**:
+  - Upgrade to Python 3.14
+  - Upgrade rdflib to latest
+  - Upgrade to Django 6
+  - Upgrade to PostgreSQL 18
+  - Upgrade to ElasticSearch 9
+  - Improved support for user/group preferences
+  - Graph edit log and history UI
+  - Tools for building resource data migrations between graph versions
+  - Single source of truth for tile display values, available at all tiers of the stack
+  - Performance enhancements for loading large datasets
 
 ### 9.0 - Release date: September 2027
 - Full migration to Vue
@@ -78,8 +94,15 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 ### 1.0 - Release Date: TBD
 
 ## Arches Controlled Lists Roadmap
+
 ### 1.1 - Release Date: March 2026
 - Support loading of skos files during package load
+
+### 1.2 - Release Date: March 2026
+- **Unfunded "Wishlist"**:
+  - Migrate domains and domain tile data to references/controlled lists
+  - Improving Controlled List Manager UI for large datasets
+  - Tools for synchronizing references across lists and in tile data
 
 ## Arches QuerySets Roadmap
 
