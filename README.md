@@ -32,6 +32,9 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - **Unfunded "Wishlist"**:
   - Support for configuration of navigation bar UI to allow for greater UI customization
   - Allow for reference data type to replace concepts in defining resource relationships
+  - Plug & Plan Docker container
+  - Nullable number widget
+  - Squash all Arches Designer bugs
 
 ### 8.2 (LTS) - Release date: December 2026
 - **Unfunded "Wishlist"**:
@@ -46,6 +49,9 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Single source of truth for tile display values, available at all tiers of the stack
   - Require default value on required nodes (and move default value config to node)
   - Performance enhancements for loading large datasets
+  - Pluggable backend search
+  - Support for MapLibre (or make map component pluggable)
+  - Support for large filters (> URL limit)
 
 ### 9.0 - Release date: September 2027
 - Full migration to Vue
