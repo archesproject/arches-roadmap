@@ -98,7 +98,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 ### 1.1 - Release Date: March 2026
 - Support loading of skos files during package load
 
-### 1.2 - Release Date: March 2026
+### 1.2 - Release Date: September 2026
 - **Unfunded "Wishlist"**:
   - Migrate domains and domain tile data to references/controlled lists
   - Improving Controlled List Manager UI for large datasets
