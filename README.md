@@ -104,6 +104,12 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 1.0 - Release Date: January 2026
 
+#### (Initial release)
+
+- Supports Arches user authentication and permissions
+- Allow users to create and edit Arches resources using geospatial data from a QGIS project
+- Includes a user interface that mimics the Arches interface
+
 ### 1.1 - Release Date: TBD
 
 - Display an image of selected features on confirmation dialogs
