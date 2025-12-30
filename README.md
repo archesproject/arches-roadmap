@@ -100,4 +100,15 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 3.0 - Release Date: TBD
 
+## Arches QGIS Plugin Roadmap
 
+### 1.0 - Release Date: January 2026
+
+### 2.0 - Release Date: TBD
+
+- Update authentication to support Single Sign-On
+- Convert the plugin user interface into a docked widget for attaching to QGIS panels
+
+### 3.0 - Release Date: TBD
+
+- Upgrade to PyQt 6 for compatibility with QGIS 4
