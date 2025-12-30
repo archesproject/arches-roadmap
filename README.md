@@ -104,6 +104,11 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 1.0 - Release Date: January 2026
 
+### 1.1 - Release Date: TBD
+
+- Display an image of selected features on confirmation dialogs
+- Replace stylesheet checkbox setting with a dropdown of options, and save selection to QSettings for preserving configuration
+
 ### 2.0 - Release Date: TBD
 
 - Update authentication to support Single Sign-On
