@@ -100,4 +100,26 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 3.0 - Release Date: TBD
 
+## Arches QGIS Plugin Roadmap
 
+### 1.0 - Release Date: January 2026
+
+#### (Initial release)
+
+- Supports Arches user authentication and permissions
+- Allow users to create and edit Arches resources using geospatial data from a QGIS project
+- Includes a user interface that mimics the Arches interface
+
+### 1.1 - Release Date: TBD
+
+- Display an image of selected features on confirmation dialogs
+- Replace stylesheet checkbox setting with a dropdown of options, and save selection to QSettings for preserving configuration
+
+### 2.0 - Release Date: TBD
+
+- Update authentication to support Single Sign-On
+- Convert the plugin user interface into a docked widget for attaching to QGIS panels
+
+### 3.0 - Release Date: TBD
+
+- Upgrade to PyQt 6 for compatibility with QGIS 4
