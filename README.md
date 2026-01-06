@@ -17,9 +17,9 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - **Unfunded "Wishlist"**:
   - Improved customization of navigation UI
   - Allow for reference data type to replace concepts in defining resource relationships
-  - Plug & Plan Docker container
+  - Plug & Play Docker Compose configuration (push-button)
   - Nullable number widget
-  - Squash all Arches Designer bugs
+  - Focus on squashing all Arches Designer bugs
 
 ### 8.2 (LTS) - Release date: March 2026
 - **Unfunded "Wishlist"**:
@@ -39,6 +39,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 9.0 - Release date: September 2027
 - Full migration to Vue
+  - Move `arches-component-lab` components into arches core
 - Removal of the RDM
 - Removal of the following datatypes:
     - concept
