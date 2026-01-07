@@ -100,6 +100,17 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 3.0 - Release Date: TBD
 
+## Arches for HERs Roadmap
+
+### 1.1 - Release Date: TBD
+
+- Upgrades Arches for HERs to work with Arches 7.6.x
+- Retain placeholder text formatting for HTML (rich-text) values in consultation letters
+
+### 2.0 - Release Date: TBD
+
+- Upgrades Arches for HERs to work with Arches 8.0.x
+
 ## Arches QGIS Plugin Roadmap
 
 ### 1.0 - Release Date: January 2026
