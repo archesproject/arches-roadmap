@@ -16,7 +16,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - domain
     - domain-list
 - **Unfunded "Wishlist"**:
-  - Improved customization of navigation UI
+  - Support for configuration of navigation bar UI to allow for greater UI customization
   - Allow for reference data type to replace concepts in defining resource relationships
 
 ### 8.2 (LTS) - Release date: March 2026
@@ -30,6 +30,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Graph edit log and history UI
   - Tools for building resource data migrations between graph versions
   - Single source of truth for tile display values, available at all tiers of the stack
+  - Require default value on required nodes (and move default value config to node)
   - Performance enhancements for loading large datasets
 
 ### 9.0 - Release date: September 2027
@@ -40,14 +41,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
     - concept-list
     - domain
     - domain-list datatypes
-
-### Possible Future Features (unfunded)
-- Upgrade Django to version 6.0
-- Allow reference items to define resource relationships
-- Make main navigation bar configurable (e.g. add ability to remove/hide RDM)
-- Add graph edit log (to support tile migrations)
-- Require default value on required nodes (move default value config to node)
-- Upgrade rdflib to allow support future Python versions
 
 ## Arches Lingo Roadmap
 
