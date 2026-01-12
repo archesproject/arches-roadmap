@@ -109,7 +109,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - Supports Arches user authentication and permissions
 - Allow users to create and edit Arches resources using geospatial data from a QGIS project
 - Displays a history of all activities conducted via the plugin for a QGIS session
-- Supports Arches resource models with multiple geojson feature collection nodes
 - Includes a user interface that mimics the Arches interface in addition to default QGIS styles
 
 ### 1.1 - Release Date: TBD
