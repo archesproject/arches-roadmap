@@ -109,7 +109,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 2.0 - Release Date: TBD
 
-- Upgrades Arches for HERs to work with Arches 8.0.x
+- Upgrades Arches for HERs to work with Arches 8.x (LTS version)
 
 ## Arches QGIS Plugin Roadmap
 
