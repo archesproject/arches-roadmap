@@ -3,6 +3,20 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches Roadmap
 
+### Release and Support Schedule
+| Version | Release Date | End Main Support | End Extended Support |
+| --- | --- | --- | --- |
+| 6.2 LTS | 10/2022 | 09/2024 | 03/2025 |
+| 7.4 | 06/2023 | 12/2023 | 06/2024 |
+| 7.5 | 12/2023 | 09/2024 | 03/2025 |
+| 7.6 LTS | 09/2024 | 12/2026 | 06/2027 |
+| 8.0 | 06/2025 | 03/2026 | 09/2026 |
+| 8.1 | 03/2026 | 12/2026 | 06/2027 |
+| 8.2 LTS | 12/2026 | 03/2029 | 09/2029 |
+| 9.0 | 09/2027 | 06/2028 | 12/2028 |
+| 9.1 | 06/2028 | 03/2029 | 09/2029 |
+| 9.2 LTS | 03/2029 | 06/2031 | 12/2031 |
+
 ### 8.1 - Release date: March 2026
 - User friendly resource identifiers
 - Import and indexing of file metadata
