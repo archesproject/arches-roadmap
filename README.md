@@ -33,7 +33,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Support for configuration of navigation bar UI to allow for greater UI customization
   - Allow for reference data type to replace concepts in defining resource relationships
 
-### 8.2 (LTS) - Release date: March 2026
+### 8.2 (LTS) - Release date: December 2026
 - **Unfunded "Wishlist"**:
   - Upgrade to Python 3.14
   - Upgrade rdflib to latest
