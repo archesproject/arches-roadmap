@@ -32,7 +32,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 - **Unfunded "Wishlist"**:
   - Support for configuration of navigation bar UI to allow for greater UI customization
   - Allow for reference data type to replace concepts in defining resource relationships
-  - Plug & Play Docker Compose configuration (push-button)
   - Nullable number widget
   - Focus on squashing all Arches Designer bugs
 
