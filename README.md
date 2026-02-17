@@ -55,7 +55,6 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ### 9.0 - Release date: September 2027
 - Full migration to Vue
-  - Move `arches-component-lab` components into arches core
 - Removal of the RDM
 - Removal of the following datatypes:
     - concept
