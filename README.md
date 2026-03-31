@@ -1,9 +1,9 @@
-The following a general plan for the Arches project. Be aware this plan is tentative and subject to change.
-
+The following is a general plan for the Arches project. Be aware this plan is tentative and subject to change.
 
 ## Arches Roadmap
 
 ### Release and Support Schedule
+
 | Version | Release Date | End Main Support | End Extended Support |
 | --- | --- | --- | --- |
 | 6.2 LTS | 10/2022 | 09/2024 | 03/2025 |
@@ -21,6 +21,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 | 10.2 LTS | 06/2031 | 09/2033 | 03/2034 |
 
 This schedule is based on the following (starting at 7.6)
+
 - Major & Minor Release Cadence: 9 months
 - Long Term Support Release (LTS) Cadence: 27 months
 
@@ -56,13 +57,14 @@ All major, minor and LTS releases are supported with patches until the next majo
   - Focus on squashing all Arches Designer bugs
 
 ### 9.0 - Release date: September 2027
+
 - Full migration to Vue
 - Removal of the RDM
 - Removal of the following datatypes:
-    - concept
-    - concept-list
-    - domain
-    - domain-list datatypes
+  - concept
+  - concept-list
+  - domain
+  - domain-list datatypes
 
 ## Arches Lingo Roadmap
 
@@ -122,7 +124,7 @@ All major, minor and LTS releases are supported with patches until the next majo
 
 ## Arches QuerySets Roadmap
 
-### 1.1 - Release Date: TBD
+### 1.2 - Release Date: TBD
 
 ## Arches Search Roadmap
 - Postgresql fulltext search 
