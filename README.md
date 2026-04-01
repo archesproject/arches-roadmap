@@ -1,9 +1,9 @@
-The following a general plan for the Arches project. Be aware this plan is tentative and subject to change.
-
+The following is a general plan for the Arches project. Be aware this plan is tentative and subject to change.
 
 ## Arches Roadmap
 
 ### Release and Support Schedule
+
 | Version | Release Date | End Main Support | End Extended Support |
 | --- | --- | --- | --- |
 | 6.2 LTS | 10/2022 | 09/2024 | 03/2025 |
@@ -16,26 +16,26 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 | 9.0 | 09/2027 | 06/2028 | 12/2028 |
 | 9.1 | 06/2028 | 03/2029 | 09/2029 |
 | 9.2 LTS | 03/2029 | 06/2031 | 12/2031 |
+| 10.0 | 12/2029 | 09/2030 | 03/2031 |
+| 10.1 | 09/2030 | 06/2031 | 12/2031 |
+| 10.2 LTS | 06/2031 | 09/2033 | 03/2034 |
 
-### 8.1 - Release date: March 2026
-- User friendly resource identifiers
-- Import and indexing of file metadata
-- Global Arches Functions (triggered by tile crud events regardless of graph)
-- RDM officially deprecated in favor of controlled lists (RDM remains available until v9.0)
-- Deprecation of mapbox-gl.js
-- Adoption of Default Deny as default resource instance permission framework
-- The following datatypes are deprecated (still available until 9.0)
-    - concept
-    - concept-list
-    - domain
-    - domain-list
-- **Unfunded "Wishlist"**:
-  - Support for configuration of navigation bar UI to allow for greater UI customization
-  - Allow for reference data type to replace concepts in defining resource relationships
-  - Nullable number widget
-  - Focus on squashing all Arches Designer bugs
+This schedule is based on the following (starting at 7.6)
+
+- Major & Minor Release Cadence: 9 months
+- Long Term Support Release (LTS) Cadence: 27 months
+
+All major, minor and LTS releases are supported with patches until the next major or minor release. This is followed by 6 months of extended support in which only security fixes will be patched.
 
 ### 8.2 (LTS) - Release date: December 2026
+
+- Support dropped for mapbox-gl.js
+- RDM officially deprecated in favor of controlled lists (RDM remains available until v9.0)
+- The following datatypes are deprecated (still available until 9.0)
+  - concept
+  - concept-list
+  - domain
+  - domain-list
 - **Unfunded "Wishlist"**:
   - Upgrade to Python 3.14
   - Upgrade rdflib to latest
@@ -51,15 +51,20 @@ The following a general plan for the Arches project. Be aware this plan is tenta
   - Pluggable backend search
   - Support for MapLibre (or make map component pluggable)
   - Support for large filters (> URL limit)
+  - Support for configuration of navigation bar UI to allow for greater UI customization
+  - Allow for reference data type to replace concepts in defining resource relationships
+  - Nullable number widget
+  - Focus on squashing all Arches Designer bugs
 
 ### 9.0 - Release date: September 2027
+
 - Full migration to Vue
 - Removal of the RDM
 - Removal of the following datatypes:
-    - concept
-    - concept-list
-    - domain
-    - domain-list datatypes
+  - concept
+  - concept-list
+  - domain
+  - domain-list datatypes
 
 ## Arches Lingo Roadmap
 
@@ -119,7 +124,7 @@ The following a general plan for the Arches project. Be aware this plan is tenta
 
 ## Arches QuerySets Roadmap
 
-### 1.1 - Release Date: TBD
+### 1.2 - Release Date: TBD
 
 ## Arches Search Roadmap
 - Postgresql fulltext search 
